@@ -1,0 +1,31 @@
+/* 基本のスタイル */
+h1 {
+    font-size: 32px;
+    margin: 0px;
+    padding: 4px;
+    color: #222288;
+}
+
+hr {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+/* ページ固有のスタイル */
+/* ログインページ */
+th.login_field {
+    width: 150px;
+    text-align: left;
+    padding: 8px;
+    color: #ffffff;
+    background-color: #aaaaff;
+}
+
+td.login_field {
+    padding: 8px;
+}
+
+td.login_button {
+    text-align: center;
+    padding: 8px;
+}
